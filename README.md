@@ -4,7 +4,7 @@
 ### Who am I?
 - 💻 Working with **Ruby on Rails** on the back end, and then for front end I have been using **CSS3**, **HTML5** and **JS (ES6)**.
 - 📚 Studied at Le Wagon Tokyo (Batch 718 - Winter 2022).
-- 👨‍🏫 Currently working as an English Language Instructor for Berkel.
+- 👨‍🏫 Currently working as an English Language Instructor for Berkeley House.
 - 🥅 Goal: To eventually build a career in Tech and learn new languages and frameworks!
 
 ### Let's Connect!
