@@ -1,4 +1,4 @@
-### Hi, I’m Gary - Full Stack Web Developer. 🐨
+### Hi, I’m Gary - Full Stack Web Developer
 
 
 ### Who am I?
