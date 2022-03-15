@@ -41,4 +41,4 @@
 
 </details>
 
-[linkedin]: https://linkedin.com/in/gary-yau8
+[linkedin]: https://linkedin.com/in/garyyau8
