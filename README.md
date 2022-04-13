@@ -4,8 +4,8 @@
 ### Who am I?
 - 💻 Working with **Ruby on Rails** on the back end, and then for front end I have been using **CSS3**, **HTML5** and **JS (ES6)**.
 - 📚 Studied at Le Wagon Tokyo (Batch 718 - Winter 2022).
-- 👨‍🏫 Currently working as an English Language Instructor for Berkeley House.
-- 🥅 Goal: To eventually build a career in Tech and learn new languages and frameworks!
+- 👨‍🏫 Currently working as a Teaching Assistant at Le Wagon Tokyo Coding Bootcamp and a volunteer frontend developer at Mamoru.
+- 🥅 Goal: To continue building a career in Tech and learn new languages and frameworks!
 
 ### Let's Connect!
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
