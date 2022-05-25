@@ -2,9 +2,9 @@
 
 
 ### Who am I?
-- 💻 Working with **Ruby on Rails** on the back end, and then for front end I have been using **CSS3**, **HTML5** and **JS (ES6)**.
-- 📚 Studied and completed the full stack web develpment bootcamp at **Le Wagon Tokyo** (Batch 718 - Winter 2022).
-- 👨‍🏫 Currently working as a Teaching Assistant at **Le Wagon Tokyo Coding Bootcamp** and a volunteer **frontend** at **Mamoru**.
+- 💻 Working with **Ruby on Rails** on the back end, and then for front end I have been using **CSS3**, **HTML5**, **JS (ES6)** and **React**.
+- 📚 Studied and completed the full stack web develpment bootcamp at **Le Wagon Tokyo**.
+- 👨‍🏫 Currently working as a Teaching Assistant at **Le Wagon Tokyo Coding Bootcamp** and a volunteer **frontend dev** at **Mamoru**.
 - 🥅 Goal: To continue building a career in Tech and learn new languages and frameworks!
 
 ### Let's Connect!
