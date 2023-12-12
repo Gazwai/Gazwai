@@ -2,10 +2,8 @@
 
 
 ### Who am I?
-- 💻 Working with **Ruby on Rails** on the back end, and then for front end I have been using **CSS3**, **HTML5**, **JS (ES6)** and **React**.
-- 📚 Studied and completed the full stack web develpment bootcamp at **Le Wagon Tokyo**.
-- 👨‍🏫 Currently working as a Teaching Assistant at **Le Wagon Tokyo Coding Bootcamp** and a volunteer **frontend dev** at **Mamoru**.
-- 🥅 Goal: To continue building a career in Tech and learn new languages and frameworks!
+- 💻 Working with **Elixir** on the back end, and then for front end I have been using **React**.
+- 👨‍🏫 Currently working as a Full Stack Developer at **Lunaris**.
 
 ### Let's Connect!
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
