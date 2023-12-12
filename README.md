@@ -2,7 +2,7 @@
 
 
 ### Who am I?
-- 💻 Working with **Elixir** on the back end, and then for front end I have been using **React**.
+- 💻 Working with **Elixir** on the back end, and then for the front end I have been using **React**.
 - 👨‍🏫 Currently working as a Full Stack Developer at **Lunaris**.
 
 ### Let's Connect!
