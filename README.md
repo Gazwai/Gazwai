@@ -2,8 +2,8 @@
 
 
 ### Who am I?
-- 💻 Working with **Elixir** on the back end, and then for the front end I have been using **React**.
-- 👨‍🏫 Currently working as a Full Stack Developer at **Lunaris**.
+- 💻 Working with **Elixir** on the backend, and then for the frontend I am using **React**.
+- 👨‍🏫 Currently working as a Teacher at **Le Wagon Tokyo**.
 
 ### Let's Connect!
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
