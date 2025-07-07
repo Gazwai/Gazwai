@@ -2,8 +2,8 @@
 
 
 ### Who am I?
-- 💻 Working with **Elixir** on the backend, and then for the frontend I am using **React**.
 - 👨‍🏫 Currently working as a Teacher at **Le Wagon Tokyo**.
+- 💻 I like working with **Elixir** and **Ruby** on the backend, and then for the frontend I am using **React**.
 
 ### Let's Connect!
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
